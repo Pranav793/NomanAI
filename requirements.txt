@@ -1,0 +1,8 @@
+openai>=1.0.0
+paramiko>=3.0.0
+# paramiko dependencies (automatically installed):
+# - cryptography>=3.3
+# - bcrypt>=3.2
+# - pynacl>=1.5
+# - invoke>=2.0
+
